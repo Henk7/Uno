@@ -35,6 +35,7 @@
  * Adjust compiled binding application ordering when loading controls
  * Ensure the SplitView templated parent is propagated properly for FindName
  * Fix infinite loop when parsing empty Attached Properties on macOS
+ * 134573 CommandBar doesn't take the proper space on iOS phones in landscape
 
 ## Release 1.41
 
